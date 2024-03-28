@@ -1,0 +1,100 @@
+
+
+.main-green {
+    color: #20895D;
+    font-weight: bold;
+}
+
+.main-brown {
+    color: #9c6a3c;
+    font-weight: bold;
+}
+
+.dropdown-item:hover {
+    background-color: #20895D;
+}
+
+.nav-a {
+    color: white;
+    font-size: 1.25em;
+    text-decoration: none; 
+    font-weight: bold;
+}
+
+.nav-a:hover {
+    color: #20895D;
+}
+
+.footer-a {
+    color: white;    
+    text-decoration: none; 
+    font-weight: 550;
+}
+
+.footer-a:hover {
+    color: #20895D;
+}
+
+.homeImage {
+    background-image: url(/KTC-images/16855-tennis-homepage-2.jpg);
+    height: 77vh;
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-size: cover;
+}
+
+.history {    
+    color: var(--coreGreen);
+    font-weight: 500;
+}
+
+.history-box {
+    background-color: var(--coreGreenSoft);
+}
+
+:root {
+    --coreGreen: #20895D;
+    --coreGreenSoft: #edfaf5;
+}
+
+.soft-green {
+    background-color: var(--coreGreenSoft);
+}
+
+.main {
+    padding-top: 115px;
+}
+
+.card-effect {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+.card-effect:hover {
+    transform: scale(1.05);
+  }
+
+
+
+
+  .gallery-item {
+    padding: 5px;
+}
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+.gallery-item img:hover {
+    transform: scale(1.1);
+}
+
+.spaced-word {
+    letter-spacing: 5px;
+}
+
+
+
+
+
+
+
