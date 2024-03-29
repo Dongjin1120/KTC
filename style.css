@@ -172,8 +172,8 @@
     }
     .conatct-images {
         width: 100%;
-        height: auto; /* 너비에 따라 높이 조정 */
-        max-width: 400px; /* 이미지의 최대 너비 설정 (선택 사항) */
+        height: auto; 
+        max-width: 400px;
     }
     .QR-link a{
         word-break: break-all;
