@@ -183,9 +183,32 @@
     }
 }
 
+.photo-margin img {
+    padding: 5px;
+}
 
+.button-color {
+    background-color: #20895D;
+    margin: 5px;
+}
 
+.button-color a {
+    text-decoration: none;
+    color: white;
+}
 
+.top-style {
+    text-decoration: none;
+    color: #20895D;
+    border: 1px solid #20895D ;
+    border-radius: 20%;
+    padding: 2px;
+}
+
+.click-to-move {
+    color: #20895D;
+    text-align: center;
+}
 
 
 
